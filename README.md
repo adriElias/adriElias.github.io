@@ -1,2 +1,2 @@
 # pruebaPortafolioModuloDWEC
-Prueba para el portafolio del mósulode DWEC.
+Prueba para el portafolio del módulo de DWEC.
