@@ -1,0 +1,97 @@
+.navbar{
+    background-color: white!important;
+    padding: 40px!important;
+    
+}
+.divNav{
+    padding-top: 40px!important;
+    
+
+}
+
+.rrss{
+    background-color: white !important;
+    color: black!important;
+    text-decoration: none;
+    margin: 10px;
+   
+}
+#div_rrss{
+    float: left;
+    transform: rotate(90deg);
+
+}
+#foto{
+    float: right!important;
+    text-align: right;
+    padding-right: 80px;
+    
+}
+#texto{
+    padding-left: 80px;
+    padding-top: 30px;
+    margin-right: 60px;
+    text-align: center;
+    /* padding-left: 80px; */
+
+}
+.btn{
+    
+    margin: 80px;
+}
+#cv{
+    
+    text-align: center;
+}
+.cv{
+    text-decoration: none;
+    color: white!important;
+}
+#textcv{
+    text-align: center;
+    padding-top: 80px;
+    
+}
+.home{
+    padding-top: 300px;
+
+}
+.aboutme{
+
+    padding-top: 100px;
+}
+.nav-link:hover:active:visited{
+    font-weight: bold!important;
+}
+.skills{
+    padding-top: 30px;
+
+}
+#video_background {
+    
+    bottom: 0px;
+    right: 0px;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1000;
+    
+}
+#video_pattern {
+    background:#fff;
+    
+    opacity: 0.8;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+.card{
+    
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
