@@ -19,6 +19,7 @@
 #div_rrss{
     float: left;
     transform: rotate(90deg);
+    text-align: center;
 
 }
 #foto{
@@ -88,10 +89,20 @@
     height: 100%;
     z-index: 1;
 }
-.card{
-    
+.card{ 
     margin-right: 100px;
     margin-left: 100px;
     margin-top: 60px;
     margin-bottom: 100px;
+}
+
+.skillscont{
+    display: inline-block;
+}
+#imge{
+
+    float: right!important;
+    padding-right: 200px;
+    display: center;
+    
 }
